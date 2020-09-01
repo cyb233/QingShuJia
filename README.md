@@ -4,3 +4,5 @@
 一款基于Fusion App制作的轻书架客户端
 
 [轻书架官网](https://www.acgdmzy.com)
+
+[爱发电赞助](https://afdian.net/@Schwi)
