@@ -2,7 +2,7 @@
 // @name         轻书架切换登录
 // @namespace    Schwi
 // @version      0.1
-// @description  轻书架账号切换，在任意页面url后添加“/id”访问并刷新即可进入
+// @description  轻书架账号切换，在任意轻书架页面url后添加“/id”访问即可，需要当前浏览器打开期间至少打开过一次正常网站页面
 // @author       Schwi
 // @match        https://www.acgdmzy.com/*
 // @grant        none
