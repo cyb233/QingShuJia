@@ -2,16 +2,15 @@
 // @name         轻书架切换登录
 // @namespace    Schwi
 // @version      0.1
-// @description  轻书架账号切换，在任意页面url后添加“/id”即可进入
+// @description  轻书架账号切换，在任意页面url后添加“/id”访问并刷新即可进入
 // @author       Schwi
 // @match        https://www.acgdmzy.com/*
 // @grant        none
 // ==/UserScript==
 
-
-console.log(window.location.href)
-if ( /^.*\/id$/g.test(window.location.href) ){//判断url
-    window.onload=function(){
+window.onhashchange=function(){
+    console.log(window.location.href)
+    if ( /^.*\/id$/g.test(window.location.href) ){//判断url
         console.log('true')
         //获取token和用户名，如果token不一致则更新
         var username
@@ -40,9 +39,7 @@ if ( /^.*\/id$/g.test(window.location.href) ){//判断url
                 document.getElementById('id22').innerText = localStorage.getItem('id2');
             }
         },150)
-    }
-} else {
-    window.onload=function(){
+    } else {
         console.log('false')
         //展开头像
         if ( localStorage.getItem('token') != null ) {
