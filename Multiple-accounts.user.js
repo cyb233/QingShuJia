@@ -11,35 +11,37 @@
 console.log('脚本启动');
 var username;
 var tokenGetFinish;
-console.log('获取token和用户名，如果token不一致则更新');
-//展开头像
-if ( localStorage.getItem('token') != null ) {
-    console.log('展开头像');
-    document.getElementsByClassName("v-avatar ml-1")[0].click();
-}
-//获取token和用户名，如果token不一致则更新
-setTimeout(function(){
-    if ( localStorage.getItem('token') == null ) {
-        console.log('未获取到token，未登录');
-        username = null;
-    } else {
-        username = document.getElementsByClassName("v-list-item__title")[7].innerText;
-        sessionStorage.setItem('username',username);
-        if ( localStorage.getItem('user_app_' + username) != null && localStorage.getItem('user_app_' + username) != localStorage.getItem('token')) {
-            console.log('token不一致,更新token');
-            localStorage.setItem('user_app_' + username,localStorage.getItem('token'));
-        }
-    }
-    tokenGetFinish = true
-    console.log('获取完毕');
-},50);
-//收起头像
-setTimeout(function(){
+window.onload=function(){
+    console.log('获取token和用户名，如果token不一致则更新');
+    //展开头像
     if ( localStorage.getItem('token') != null ) {
-        console.log('收起头像');
+        console.log('展开头像');
         document.getElementsByClassName("v-avatar ml-1")[0].click();
     }
-},100);
+    //获取token和用户名，如果token不一致则更新
+    setTimeout(function(){
+        if ( localStorage.getItem('token') == null ) {
+            console.log('未获取到token，未登录');
+            username = null;
+        } else {
+            username = document.getElementsByClassName("v-list-item__title")[7].innerText;
+            sessionStorage.setItem('username',username);
+            if ( localStorage.getItem('user_app_' + username) != null && localStorage.getItem('user_app_' + username) != localStorage.getItem('token')) {
+                console.log('token不一致,更新token');
+                localStorage.setItem('user_app_' + username,localStorage.getItem('token'));
+            }
+        }
+        tokenGetFinish = true
+        console.log('获取完毕');
+    },50);
+    //收起头像
+    setTimeout(function(){
+        if ( localStorage.getItem('token') != null ) {
+            console.log('收起头像');
+            document.getElementsByClassName("v-avatar ml-1")[0].click();
+        }
+    },100);
+}
 window.onhashchange=function(){
     console.log('页面变化：' + window.location.href);
     if ( /^.*\/id$/g.test(window.location.href) ){//判断url
@@ -82,8 +84,8 @@ window.onhashchange=function(){
                 }
             },150)
         } else {
-			alert('请先访问正常页面')
-			window.location.href='/#/home';
-		}
+            alert('请先访问正常页面')
+            window.location.href='/#/home';
+        }
     }
 }
