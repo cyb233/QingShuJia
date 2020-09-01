@@ -9,9 +9,9 @@
 // ==/UserScript==
 
 
-window.onload=function(){
-    console.log(window.location.href)
-    if ( /^.*\/id$/g.test(window.location.href) ){//判断url
+console.log(window.location.href)
+if ( /^.*\/id$/g.test(window.location.href) ){//判断url
+    window.onload=function(){
         console.log('true')
         //获取token和用户名，如果token不一致则更新
         var username
@@ -40,7 +40,9 @@ window.onload=function(){
                 document.getElementById('id22').innerText = localStorage.getItem('id2');
             }
         },150)
-    } else {
+    }
+} else {
+    window.onload=function(){
         console.log('false')
         //展开头像
         if ( localStorage.getItem('token') != null ) {
