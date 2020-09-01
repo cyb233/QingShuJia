@@ -81,6 +81,9 @@ window.onhashchange=function(){
                     document.getElementById('id22').innerText = localStorage.getItem('id2');
                 }
             },150)
-        }
+        } else {
+			alert('请先访问正常页面')
+			window.location.href='/#/home';
+		}
     }
 }
