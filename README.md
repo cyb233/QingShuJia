@@ -1,5 +1,5 @@
 # QingShuJia
-[![](https://img.shields.io/github/downloads/cyb233/QingShuJia/total.svg)](https://github.com/cyb233/QingShuJia/releases)
+![GitHub](https://img.shields.io/github/license/cyb233/QingShuJia) ![GitHub Repo stars](https://img.shields.io/github/stars/cyb233/QingShuJia?style=flat) [![](https://img.shields.io/github/downloads/cyb233/QingShuJia/total.svg)](https://github.com/cyb233/QingShuJia/releases)
 
 [轻书架APP](https://github.com/cyb233/QingShuJia/releases/latest)
 
