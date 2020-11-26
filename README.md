@@ -1,5 +1,5 @@
 # QingShuJia
-![![](https://img.shields.io/github/license/cyb233/QingShuJia)](https://github.com/cyb233/QingShuJia/blob/master/LICENSE) ![![](https://img.shields.io/github/stars/cyb233/QingShuJia?style=flat)](https://ghbtns.com/github-btn.html?user=cyb233&repo=QingShuJia&type=star&count=true&size=large) [![](https://img.shields.io/github/downloads/cyb233/QingShuJia/total.svg)](https://github.com/cyb233/QingShuJia/releases)
+![![](https://img.shields.io/github/license/cyb233/QingShuJia)](https://github.com/cyb233/QingShuJia/blob/master/LICENSE) ![GitHub Repo stars](https://img.shields.io/github/stars/cyb233/QingShuJia?style=flat) [![](https://img.shields.io/github/downloads/cyb233/QingShuJia/total.svg)](https://github.com/cyb233/QingShuJia/releases)
 
 [轻书架APP](https://github.com/cyb233/QingShuJia/releases/latest)
 
