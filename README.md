@@ -10,3 +10,5 @@
 [轻书架官网](https://www.acgdmzy.com)
 
 [爱发电赞助](https://afdian.net/@Schwi)
+
+正计划使用Android Studio重写
