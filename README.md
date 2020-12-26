@@ -12,3 +12,5 @@
 [爱发电赞助](https://afdian.net/@Schwi)
 
 正计划使用Android Studio重写
+
+[![Stargazers over time](https://starchart.cc/cyb233/QingShuJia.svg)](https://starchart.cc/cyb233/QingShuJia)
