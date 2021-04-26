@@ -1,3 +1,4 @@
 历史更新日志：
 1.0.0
-即将发布1.0.0，旧日志>history_Archive.txt
+重写了一遍，一些功能和界面有所修改，请自行查看
+旧日志>history_Archive.txt
