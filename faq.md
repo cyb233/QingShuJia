@@ -14,18 +14,15 @@
 
 - - 第三方APP
 
-<details markdown='1'><summary>点击查阅系统WebView版本过低解决方案</summary>
-
-> ### WebView版本过旧的尝试性解决：
-> #### 第三方APP检查WebView版本：APP内“关于”页，网站正常使用要求不低于80版本
-> #### 解决方案
-> 1. 安装群文件`Android System WebView`(或从别处下载)
+> WebView版本过旧的尝试性解决：
+> - 第三方APP检查WebView版本：APP内“关于”页，网站正常使用要求不低于80版本
+> 
+> 解决方案：
+> 1. 安装群文件`Android System WebView`(或从别处下载，只要版本高于80即可)
 > - 如果手机用的是原生WebView，这时就应该已经正常了，如果是定制版，请继续往下看
 > 2. 设置→关于手机→连点“软件版本号”启用开发者选项
 > 3. 设置→开发者选项→WebView实现→看看有没有新安装的WebView的选项
 > 4. 如果有，就换到新安装的WebView，如果没有，就换手机//换官方APP//百度一下你的手机型号怎么升级WebView
-
-</details>
 
 - - iOS
 
