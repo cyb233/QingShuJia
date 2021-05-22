@@ -49,7 +49,7 @@
 - QQ点击第三方APP安装包闪退：
 
 > 请从文件管理中安装APP  
-> QQ文件下载路径：`Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/`
+> QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
 
 - 无法登录/无法注册/收不到注册邮件：
 
