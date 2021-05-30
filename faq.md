@@ -2,6 +2,12 @@
 ### 关于非第三方APP的问题，即浏览器与PWA，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 #### 如有以下常见内容之外的问题，可通过APP内问题反馈，或在GitHub提出issue，或发送邮件至 Schwi@Foxmail.com
 
+0. 下载地址：
+
+> https://github.com/cyb233/QingShuJia/releases/latest
+> - 如果直连打不开/下不动，可尝试如下链接(将链接中的版本号改为实际存在的版本号，例如1.1.0)：
+> - https://ghproxy.com/https://github.com/cyb233/QingShuJia/releases/download/版本号/QingShuJia_版本号_release.apk
+
 1. 网页白屏/阅读页排版异常/页面无法拖动：
 
 > WebView版本过旧的解决：  
