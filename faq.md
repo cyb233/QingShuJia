@@ -4,9 +4,10 @@
 
 0. 下载地址：
 
-> https://github.com/cyb233/QingShuJia/releases/latest
-> - 如果直连打不开/下不动，可尝试如下链接(将链接中的版本号改为实际存在的版本号，例如1.1.0)：
-> - https://ghproxy.com/https://github.com/cyb233/QingShuJia/releases/download/版本号/QingShuJia_版本号_release.apk
+> [最新release](https://github.com/cyb233/QingShuJia/releases/latest)
+> - 如果直连打不开/下不动，可尝试借助以下几个链接：
+>     - https://ghproxy.com/
+>     - http://app.schwi.xyz/qsj
 
 1. 网页白屏/阅读页排版异常/页面无法拖动：
 
