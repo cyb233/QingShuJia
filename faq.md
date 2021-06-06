@@ -2,6 +2,11 @@
 ### 关于非第三方APP的问题，即浏览器与PWA，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 #### 如有以下常见内容之外的问题，可通过APP内问题反馈，或在GitHub提出issue，或发送邮件至 Schwi@Foxmail.com
 
+0. 关于评论我网页套壳之类：
+
+> 航海技术专业不会正经安卓开发想调试都没网还没有文档看那可真是对不起了
+<!---我这个人偶尔心眼小一下，就算是网页套壳也花了我不少功夫的好吧--->
+
 0. 下载地址：
 
 > [最新release](https://github.com/cyb233/QingShuJia/releases/latest)
