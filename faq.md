@@ -1,5 +1,5 @@
 # <a name="title">常见问题</a>
-### 关于非第三方APP的问题，即浏览器与PWA，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
+### 关于非第三方APP的问题，即浏览器与PWA，以及网站本身的使用说明，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 #### 如有以下常见内容之外的问题，可通过APP内问题反馈，或在GitHub提出issue，或发送邮件至 Schwi@Foxmail.com
 > 0. <a href="#download">下载地址</a>
 > 1. <a href="#page">网页白屏/阅读页排版异常/页面无法拖动</a>
