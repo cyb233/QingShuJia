@@ -1,6 +1,17 @@
 # 常见问题
 ### 关于非第三方APP的问题，即浏览器与PWA，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 #### 如有以下常见内容之外的问题，可通过APP内问题反馈，或在GitHub提出issue，或发送邮件至 Schwi@Foxmail.com
+> 0. <a href="#download">下载地址</a>
+> 1. <a href="#page">网页白屏/阅读页排版异常/页面无法拖动</a>
+> 2. <a href="#font">字体加载不出/空白/方框/乱码</a>
+> 3. <a href="#load">网站打不开/页面持续处于加载状态</a>
+> 4. <a href="#toolbar">第三方APP有时显示出了网站本身的顶栏等</a>
+> 5. <a href="#crash">QQ点击第三方APP安装包闪退/a>
+> 6. <a href="#virus">第三方APP提示风险/报毒</a>
+> 7. <a href="#install">第三方APP无法安装</a>
+> 8. <a href="#login">无法登录/无法注册/收不到注册邮件</a>
+> 9. <a href="#usage">第三方APP部分操作说明</a>
+> 10. <a href="#error">注册/登陆提示</a>
 
 0. <a name="download">下载地址：</a>
 
@@ -56,7 +67,7 @@
 > - 阅读时：全屏状态可长按屏幕暂时退出全屏，再次长按进入全屏  
 > - 阅读时：点击标题直接后退至最后访问的书籍信息页面  
 
-10. <a name="error">无法登陆：</a>
+10. <a name="error">注册/登陆提示：</a>
   - 提示 未知错误
 > 通常是ip或账号被封禁  
 > 建议先更换ip再尝试登录，如仍提示未知错误，则账号被封禁
