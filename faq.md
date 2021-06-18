@@ -51,7 +51,7 @@
 5. <a name="crash" href="#title">QQ点击第三方APP安装包闪退：</a>
 
 > 请从文件管理中安装APP  
-> QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
+> PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
 
 6. <a name="virus" href="#title">第三方APP提示风险/报毒：</a>
 
@@ -71,6 +71,7 @@
 > - 阅读时：点击标题直接后退至最后访问的书籍信息页面  
 
 10. <a name="error" href="#title">注册/登陆提示：</a>
+
   - 提示 未知错误
 > 通常是ip或账号被封禁  
 > 建议先更换ip再尝试登录，如仍提示未知错误，则账号被封禁
@@ -80,6 +81,9 @@
 
   - 提示 该用户不存在
 > 输错账号或因为未验证邮箱而被删号
+
+  - 其他提示
+> 请先尽量自己理解文字含义，如果不能理解可在官群咨询
 
 0. <a name="fuck" href="#title">关于评论我网页套壳之类：</a>
 
