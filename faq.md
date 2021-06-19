@@ -1,6 +1,6 @@
 # <a name="title">常见问题</a>
 ### 关于非第三方APP的问题，即浏览器与PWA，以及网站本身的使用说明，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
-#### 如有以下常见内容之外的问题，可通过APP内问题反馈，或在GitHub提出issue，或发送邮件至 Schwi@Foxmail.com
+#### 如有以下常见内容之外的问题，可通过APP内问题反馈，或<a href="https://github.com/cyb233/QingShuJia/issues">在GitHub提出issue</a>，或发送邮件至 Schwi@Foxmail.com
 
 <center><div>目录</div></center>
 
@@ -15,7 +15,7 @@
 > 8. <a href="#login">无法登录/无法注册/收不到注册邮件</a>
 > 9. <a href="#usage">第三方APP部分操作说明</a>
 > 10. <a href="#error">注册/登陆提示</a>
-
+---
 0. <a name="download" href="#title">下载地址：</a>
 
 > [最新release](https://github.com/cyb233/QingShuJia/releases/latest)
@@ -64,7 +64,7 @@
 8. <a name="login" href="#title">无法登录/无法注册/收不到注册邮件：</a>
 
 > **这些事儿真的跟第三方APP无关啊！** 请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
-<!---总是收到这类反馈我想骂人了怎么办？--->
+<!---总是收到这类反馈我想骂人了怎么办？填问卷前一个个都根本不审题的--->
 9. <a name="usage" href="#title">第三方APP部分操作说明：</a>
 > - 登录后：点击头像进入个人中心  
 > - 阅读时：全屏状态可长按屏幕暂时退出全屏，再次长按进入全屏  
@@ -87,5 +87,5 @@
 
 0. <a name="fuck" href="#title">关于评论我网页套壳之类：</a>
 
-> 航海技术专业不会正经安卓开发想调试都没网还没有文档看那可真是对不起了，反正我目前没打算写UI，网站本身UI美观度也很高，不喜欢的请自己上
+> 懒得写UI，况且网站本身UI美观度也很高，单页应用流畅度也没问题，觉得不好的你行你上
 <!---我这个人偶尔心眼小一下，就算是网页套壳也花了我不少功夫的好吧，而且在生日看到有人这么说超不开心的--->
