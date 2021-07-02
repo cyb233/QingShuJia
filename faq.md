@@ -14,7 +14,8 @@
 > 7. <a href="#install">第三方APP无法安装</a>
 > 8. <a href="#login">无法登录/无法注册/收不到注册邮件</a>
 > 9. <a href="#usage">第三方APP部分操作说明</a>
-> 10. <a href="#error">注册/登陆提示</a>
+> 10. <a href="#save">第三方文件保存路径</a>
+> 11. <a href="#error">注册/登陆提示</a>
 ---
 0. <a name="download" href="#title">下载地址：</a>
 
@@ -70,7 +71,14 @@
 > - 阅读时：全屏状态可长按屏幕暂时退出全屏，再次长按进入全屏  
 > - 阅读时：点击标题直接后退至最后访问的书籍信息页面  
 
-10. <a name="error" href="#title">注册/登陆提示：</a>
+10. <a name="save" href="#title">第三方文件保存路径：</a>
+
+⁻ 由于第三方APP数据保存路径曾多次变更，此处数据以最新版本为准
+> 下载更新：Android/data/ com.schwi.qingshujia/Download/
+> 保存图片：Pictures/
+> 下载书籍：Documents/
+
+11. <a name="error" href="#title">注册/登陆提示：</a>
 
   - 提示 未知错误
 > 通常是ip或账号被封禁  
