@@ -74,9 +74,9 @@
 10. <a name="save" href="#title">第三方文件保存路径：</a>
 
 ⁻ 由于第三方APP数据保存路径曾多次变更，此处数据以最新版本为准
-> - 下载更新：Android/data/ com.schwi.qingshujia/Download/
-> - 保存图片：Pictures/
-> - 下载书籍：Documents/
+> - 下载更新：`Android/data/ com.schwi.qingshujia/ Download/`
+> - 保存图片：`Pictures/`
+> - 下载书籍：`Documents/`
 
 11. <a name="error" href="#title">注册/登陆提示：</a>
 
