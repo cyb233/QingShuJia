@@ -17,14 +17,14 @@
 > 10. <a href="#save">第三方文件保存路径</a>
 > 11. <a href="#error">注册/登陆提示</a>
 ---
-0. <a name="download" href="#title">下载地址：</a>
+0. <a name="download" href="#download">下载地址：</a>
 
 > [最新release](https://github.com/cyb233/QingShuJia/releases/latest)
 > - 如果直连打不开/下不动，可尝试借助以下几个链接：
 >     - https://ghproxy.com/
 >     - http://app.schwi.xyz/qsj
 
-1. <a name="page" href="#title">网页白屏/阅读页排版异常/页面无法拖动：</a>
+1. <a name="page" href="#page">网页白屏/阅读页排版异常/页面无法拖动：</a>
 
 > WebView版本过旧的解决：  
 > - 网站最低要求的WebView内核版本为80，请检查WebView
@@ -36,49 +36,50 @@
 > 3. 设置→开发者选项→WebView实现→看看有没有新安装的WebView的选项
 > 4. 如果有，就换到新安装的WebView，如果没有，就换手机//换官方APP//百度一下你的手机型号怎么升级WebView  
 
-2. <a name="font" href="#title">字体加载不出/空白/方框/乱码：</a>
+2. <a name="font" href="#font">字体加载不出/空白/方框/乱码：</a>
 
 > 网站需要加载字体包，加载不出请尝试刷新，还不行就清空APP缓存再刷新，可能是网络问题导致的加载失败，建议在良好的网络环境下使用本站
 
-3. <a name="load" href="#title">网站打不开/页面持续处于加载状态：</a>
+3. <a name="load" href="#load">网站打不开/页面持续处于加载状态：</a>
 
 > 通常是网络原因，建议在良好的网络环境下使用本站  
 > 能打开页面但是无法登陆等，通常是由于token异常或ip更换，尝试清除缓存或重启路由和设备
 
-4. <a name="toolbar" href="#title">第三方APP有时显示出了网站本身的顶栏等</a>
+4. <a name="toolbar" href="#toolbar">第三方APP有时显示出了网站本身的顶栏等</a>
 
 > 刷新一下就好
 
-5. <a name="crash" href="#title">QQ点击第三方APP安装包闪退：</a>
+5. <a name="crash" href="#crash">QQ点击第三方APP安装包闪退：</a>
 
 > 请从文件管理中安装APP  
 > PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
 
-6. <a name="virus" href="#title">第三方APP提示风险/报毒：</a>
+6. <a name="virus" href="#virus">第三方APP提示风险/报毒：</a>
 
 > 大概是安装更新包的部分代码导致的，无视即可
 
-7. <a name="install" href="#title">第三方APP无法安装：</a>
+7. <a name="install" href="#install">第三方APP无法安装：</a>
 
 > 请确保手机安卓版本不低于Android 6.0，如果仍无法解决请反馈
 
-8. <a name="login" href="#title">无法登录/无法注册/收不到注册邮件：</a>
+8. <a name="login" href="#login">无法登录/无法注册/收不到注册邮件：</a>
 
 > **这些事儿真的跟第三方APP无关啊！** 请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 <!---总是收到这类反馈我想骂人了怎么办？填问卷前一个个都根本不审题的--->
-9. <a name="usage" href="#title">第三方APP部分操作说明：</a>
+9. <a name="usage" href="#usage">第三方APP部分操作说明：</a>
 > - 登录后：点击头像进入个人中心  
 > - 阅读时：全屏状态可长按屏幕暂时退出全屏，再次长按进入全屏  
-> - 阅读时：点击标题直接后退至最后访问的书籍信息页面  
+> - 阅读时：长按图片可保存图片  
+> - 阅读时：返回键会直接后退至最后访问的书籍信息页面  
 
-10. <a name="save" href="#title">第三方文件保存路径：</a>
+10. <a name="save" href="#save">第三方文件保存路径：</a>
 
 ⁻ 由于第三方APP数据保存路径曾多次变更，此处数据以最新版本为准
 > - 下载更新：`Android/data/ com.schwi.qingshujia/ Download/`
 > - 保存图片：`Pictures/`
 > - 下载书籍：`Documents/`
 
-11. <a name="error" href="#title">注册/登陆提示：</a>
+11. <a name="error" href="#error">注册/登陆提示：</a>
 
   - 提示 未知错误
 > 通常是ip或账号被封禁  
@@ -95,5 +96,5 @@
 
 0. <a name="fuck" href="#title">关于评论我网页套壳之类：</a>
 
-> 懒得写UI，况且网站本身UI美观度也很高，单页应用流畅度也没问题，觉得不好的你行你上就是了，别难为我一个航海技术大专生了
+> 懒得写UI，况且网站本身UI美观度也很高，单页应用流畅度也没问题，觉得不好的你行你上就是了，难为我一个航海技术大专毕业生没意思
 <!---我这个人偶尔心眼小一下，就算是网页套壳也花了我不少功夫的好吧，而且在生日看到有人这么说超不开心的--->
