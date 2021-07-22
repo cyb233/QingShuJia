@@ -49,10 +49,11 @@
 
 > 刷新一下就好
 
-5. <a name="crash" href="#crash">QQ点击第三方APP安装包闪退：</a>
+5. <a name="crash" href="#crash">第三方APP安装闪退：</a>
 
-> 请从文件管理中安装APP  
-> PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
+> QQ内点击安装包闪退：请从文件管理中安装APP  
+>> PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
+> 应用包安装程序闪退：建议直接放弃，等待后续解决
 
 6. <a name="virus" href="#virus">第三方APP提示风险/报毒：</a>
 
