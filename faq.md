@@ -9,7 +9,7 @@
 > 2. <a href="#font">字体加载不出/空白/方框/乱码</a>
 > 3. <a href="#load">网站打不开/页面持续处于加载状态</a>
 > 4. <a href="#toolbar">第三方APP有时显示出了网站本身的顶栏等</a>
-> 5. <a href="#crash">QQ点击第三方APP安装包闪退</a>
+> 5. <a href="#crash">第三方APP安装闪退</a>
 > 6. <a href="#virus">第三方APP提示风险/报毒</a>
 > 7. <a href="#install">第三方APP无法安装</a>
 > 8. <a href="#login">无法登录/无法注册/收不到注册邮件</a>
@@ -51,9 +51,9 @@
 
 5. <a name="crash" href="#crash">第三方APP安装闪退：</a>
 
-> QQ内点击安装包闪退：请从文件管理中安装APP  
->> PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`
-> 应用包安装程序闪退：建议直接放弃，等待后续解决
+> 1. QQ内点击安装包闪退：请从文件管理中安装APP  
+>> PS：QQ文件下载路径：`Android/data/ com.tencent.mobileqq/ Tencent/QQfile_recv/`  
+> 2. 应用包安装程序闪退：建议直接放弃，等待后续解决
 
 6. <a name="virus" href="#virus">第三方APP提示风险/报毒：</a>
 
