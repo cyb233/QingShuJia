@@ -25,9 +25,10 @@
 >     - http://app.schwi.xyz/qsj
 
 1. <a name="page" href="#page">网页白屏/阅读页排版异常/页面无法拖动：</a>
-
+> 首次启动白屏可能是正在加载service worker等内容，如果长时间等待后仍白屏，请往下看
+  
 > WebView版本过旧的解决：  
-> - 网站最低要求的WebView内核版本为80，请检查WebView
+> - 网站最低要求的WebView内核版本为80，请在应用设置→关于中检查你的WebView版本
 >     - 第三方APP检查WebView版本：APP内“关于”页，网站正常使用要求不低于80版本  
 > 解决方案：  
 > 1. Google play搜索更新`Android System WebView`(或从别处下载，只要版本高于80即可)
