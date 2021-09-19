@@ -1,5 +1,5 @@
 # <a name="title">常见问题</a>
-### 关于非第三方APP的问题，即浏览器与PWA，以及网站本身的使用说明，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
+### 关于非第三方APP的问题，即浏览器与PWA([什么是PWA?](https://baike.baidu.com/item/PWA))，以及网站本身的使用说明，请阅读[轻书架官方Q&A](https://afdian.net/p/7b6f839ab6ee11eb917e52540025c377)
 #### 如有以下常见内容之外的问题，可通过APP内问题反馈，或<a href="https://github.com/cyb233/QingShuJia/issues">在GitHub提出issue</a>，或发送邮件至 Schwi@Foxmail.com
 
 <center><div>目录</div></center>
