@@ -3,7 +3,7 @@
 
 [轻书架第三方APP](https://github.com/cyb233/QingShuJia/releases/latest)
 
-一款基于Fusion App制作的轻书架第三方客户端，如果release下载较慢可尝试使用[*cf加速下载*](https://ghproxy.com/)，[*转存下载*](https://d.serctl.com/)或[*托管地址下载*](http://app.schwi.xyz/qsj)(日下载上限100次)
+一款基于Fusion App制作的轻书架第三方客户端，如果release下载较慢可尝试使用[*cf加速下载*](https://ghproxy.com/)或[*转存下载*](https://d.serctl.com/)
 
 # 重要公告·停用公告
 
@@ -12,6 +12,7 @@
 （因为V2改动较大，并未对V2做适配）  
 之后将会重做本项目  
 
+发布了一个简单版本先用着
 
 [常见问题](https://cyb233.github.io/QingShuJia/faq)
 
